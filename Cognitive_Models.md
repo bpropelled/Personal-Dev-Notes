@@ -1,32 +1,8 @@
 
 [Source](http://coglode.com/ "Permalink to Coglode")
 
-# Coglode
 
-![][1][Nuggets][2][FAQ][3][Pricing][4]
-
-![][5]
-
-# Nuggets
-
-Bite-size behavioural research for leading Decision-Makers
-
-[Get started][2][I have an invite][2]
-
-Nuggets are currently invitation-only
-
-[Join the waitlist][6]![][7]
-
-##### Nuggets are currently invitation-only.   
-Get notified of the next release wave.
-
-Thank you! Your submission has been received!
-
-Oops! Something went wrong while submitting the form
-
-![][8]
-
-# [Prospect Theory
+# Prospect Theory
 
 ### A loss hurts more than an equal gain feels good
 
@@ -36,7 +12,7 @@ Oops! Something went wrong while submitting the form
 
 ![][10]
 
-# [Anchoring Bias
+# Anchoring Bias
 
 ### We tend to rely too heavily on the first piece of information seen
 
@@ -46,7 +22,7 @@ Oops! Something went wrong while submitting the form
 
 ![][12]
 
-# [Limited Access
+# Limited Access
 
 ### We place greater value in things when there are barriers placed around them
 
@@ -56,7 +32,7 @@ Oops! Something went wrong while submitting the form
 
 ![][14]
 
-# [Lucky Loyalty Effect
+# Lucky Loyalty Effect
 
 ### Random rewards feel more likely, the more we spend
 
@@ -66,7 +42,7 @@ Oops! Something went wrong while submitting the form
 
 ![][16]
 
-# [Category Size Bias
+# Category Size Bias
 
 ### We're more influenced by options that are put into a relatively-large group.
 
@@ -76,7 +52,7 @@ Oops! Something went wrong while submitting the form
 
 ![][18]
 
-# [Scarcity Bias
+# Scarcity Bias
 
 ### We value things more when they're in limited supply
 
@@ -86,7 +62,7 @@ Oops! Something went wrong while submitting the form
 
 ![][20]
 
-# [Collection Bias
+# Collection Bias
 
 ### We have an emotional need to amass sets of related objects or experiences
 
